@@ -2,10 +2,10 @@
 \contentsline {section}{\numberline {2}VK定理}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}广群(群胚):Groupoid}{3}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}VK定理的内容}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}VK定理 群版本的证明}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.3}VK定理 群版本的证明}{6}{subsection.2.3}%
 \contentsline {section}{\numberline {3}覆叠空间}{7}{section.3}%
 \contentsline {subsection}{\numberline {3.1}覆叠空间的定义}{7}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}道路提升唯一定理}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}道路提升唯一定理}{8}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}广群的覆叠}{8}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}群作用和轨道范畴}{9}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}广群覆叠的分类定理}{10}{subsection.3.5}%
@@ -21,14 +21,14 @@
 \contentsline {subsection}{\numberline {6.2}映射柱}{20}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}上纤维的替换性}{21}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}判定准则}{21}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}上纤维同伦等价}{22}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}习题}{23}{subsection.6.6}%
-\contentsline {section}{\numberline {7}纤维}{23}{section.7}%
-\contentsline {subsection}{\numberline {7.1}纤维的定义}{23}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}纤维判定准则}{25}{subsection.7.2}%
+\contentsline {subsection}{\numberline {6.5}上纤维同伦等价}{23}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}习题}{24}{subsection.6.6}%
+\contentsline {section}{\numberline {7}纤维}{24}{section.7}%
+\contentsline {subsection}{\numberline {7.1}纤维的定义}{24}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}纤维判定准则}{26}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}纤维同伦等价}{26}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}纤维变换}{26}{subsection.7.4}%
-\contentsline {section}{\numberline {8}带基点上纤维和纤维的正合列}{26}{section.8}%
+\contentsline {section}{\numberline {8}带基点上纤维和纤维的正合列}{27}{section.8}%
 \contentsline {subsection}{\numberline {8.1}带基点的同伦映射类}{27}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Cone与Suspension}{27}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}带基点上纤维}{28}{subsection.8.3}%
@@ -42,28 +42,29 @@
 \contentsline {subsection}{\numberline {10.1}同调公理}{31}{subsection.10.1}%
 \contentsline {subsection}{\numberline {10.2}胞腔同调}{32}{subsection.10.2}%
 \contentsline {subsubsection}{\numberline {10.2.1}构造}{32}{subsubsection.10.2.1}%
-\contentsline {subsubsection}{\numberline {10.2.2}验证是链复形}{33}{subsubsection.10.2.2}%
-\contentsline {subsubsection}{\numberline {10.2.3}验证同调公理}{34}{subsubsection.10.2.3}%
-\contentsline {subsubsection}{\numberline {10.2.4}乘积空间的链复形}{35}{subsubsection.10.2.4}%
+\contentsline {subsubsection}{\numberline {10.2.2}验证是链复形}{34}{subsubsection.10.2.2}%
+\contentsline {subsubsection}{\numberline {10.2.3}验证同调公理}{35}{subsubsection.10.2.3}%
+\contentsline {subsubsection}{\numberline {10.2.4}乘积空间的链复形}{36}{subsubsection.10.2.4}%
 \contentsline {subsection}{\numberline {10.3}一些例子}{36}{subsection.10.3}%
 \contentsline {section}{\numberline {11}同调公理的若干推论}{36}{section.11}%
-\contentsline {subsection}{\numberline {11.1}约化同调}{36}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.1}约化同调}{37}{subsection.11.1}%
 \contentsline {subsection}{\numberline {11.2}上纤维和空间对的同调}{37}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3}Suspension和长正合列}{37}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.3}Suspension和长正合列}{38}{subsection.11.3}%
 \contentsline {subsection}{\numberline {11.4}MV序列}{38}{subsection.11.4}%
 \contentsline {section}{\numberline {12}Hurewicz定理和唯一性定理}{39}{section.12}%
 \contentsline {section}{\numberline {13}奇异同调}{39}{section.13}%
 \contentsline {subsection}{\numberline {13.1}奇异链复形}{39}{subsection.13.1}%
 \contentsline {subsection}{\numberline {13.2}几何实现}{41}{subsection.13.2}%
-\contentsline {subsection}{\numberline {13.3}单纯范畴和几何实现}{42}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.3}单纯范畴和几何实现}{43}{subsection.13.3}%
 \contentsline {subsection}{\numberline {13.4}分类空间和Eilenberg-MacLane空间}{44}{subsection.13.4}%
-\contentsline {section}{\numberline {14}Poincare对偶定理}{45}{section.14}%
-\contentsline {subsection}{\numberline {14.1}前置知识}{45}{subsection.14.1}%
-\contentsline {subsubsection}{\numberline {14.1.1}帽积(cap product)}{45}{subsubsection.14.1.1}%
+\contentsline {section}{\numberline {14}Poincare对偶定理}{46}{section.14}%
+\contentsline {subsection}{\numberline {14.1}前置知识}{46}{subsection.14.1}%
+\contentsline {subsubsection}{\numberline {14.1.1}帽积(cap product)}{46}{subsubsection.14.1.1}%
 \contentsline {subsubsection}{\numberline {14.1.2}定向和基本类}{47}{subsubsection.14.1.2}%
-\contentsline {subsubsection}{\numberline {14.1.3}消失定理的证明}{48}{subsubsection.14.1.3}%
-\contentsline {subsection}{\numberline {14.2}Poincare对偶定理}{50}{subsection.14.2}%
+\contentsline {subsubsection}{\numberline {14.1.3}消失定理的证明}{49}{subsubsection.14.1.3}%
+\contentsline {subsection}{\numberline {14.2}Poincare对偶定理}{51}{subsection.14.2}%
 \contentsline {subsection}{\numberline {14.3}一些应用}{51}{subsection.14.3}%
 \contentsline {subsubsection}{\numberline {14.3.1}方向覆盖}{51}{subsubsection.14.3.1}%
 \contentsline {subsubsection}{\numberline {14.3.2}一些推论}{52}{subsubsection.14.3.2}%
 \contentsline {section}{\numberline {15}流形的指标,带边流形}{53}{section.15}%
+\contentsline {section}{\numberline {16}同调,上同调与分类空间$K(\pi ,n)$}{54}{section.16}%

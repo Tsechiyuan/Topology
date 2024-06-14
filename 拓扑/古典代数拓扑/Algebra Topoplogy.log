@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.16)  18 MAY 2024 18:58
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.16)  22 MAY 2024 11:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1213,10 +1213,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-9.50027pt}.
 
 [30]
-Overfull \hbox (43.47244pt too wide) in paragraph at lines 1585--1586
-[][]\TU/SimSun(0)/m/n/10.53937 对 于 整 数 $\OML/cmm/m/it/10.53937 q$\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 存 在 从 \TU/lmr/m/n/10.53937 CW \TU/SimSun(0)/m/n/10.53937 对 同 伦 范 畴 到 \TU/lmr/m/n/10.53937 Abel \TU/SimSun(0)/m/n/10.53937 群 范 畴 的 函 子 $\OML/cmm/m/it/10.53937 H[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 X; A\OT1/cmr/m/n/10.53937 ; \OML/cmm/m/it/10.53937 ^^Y\OT1/cmr/m/n/10.53937 )$\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 以 及 自 然 变 换\TU/lmr/m/n/10.53937 :$\OML/cmm/m/it/10.53937 @H[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 X; A\OT1/cmr/m/n/10.53937 ; \OML/cmm/m/it/10.53937 ^^Y\OT1/cmr/m/n/10.53937 ) \OMS/cmsy/m/n/10.53937 !
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 21.50027pt, for example:
@@ -1225,6 +1221,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-9.50027pt}.
 
 [31]
+Overfull \hbox (43.47244pt too wide) in paragraph at lines 1585--1586
+[][]\TU/SimSun(0)/m/n/10.53937 对 于 整 数 $\OML/cmm/m/it/10.53937 q$\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 存 在 从 \TU/lmr/m/n/10.53937 CW \TU/SimSun(0)/m/n/10.53937 对 同 伦 范 畴 到 \TU/lmr/m/n/10.53937 Abel \TU/SimSun(0)/m/n/10.53937 群 范 畴 的 函 子 $\OML/cmm/m/it/10.53937 H[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 X; A\OT1/cmr/m/n/10.53937 ; \OML/cmm/m/it/10.53937 ^^Y\OT1/cmr/m/n/10.53937 )$\TU/lmr/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 以 及 自 然 变 换\TU/lmr/m/n/10.53937 :$\OML/cmm/m/it/10.53937 @H[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 X; A\OT1/cmr/m/n/10.53937 ; \OML/cmm/m/it/10.53937 ^^Y\OT1/cmr/m/n/10.53937 ) \OMS/cmsy/m/n/10.53937 !
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 21.50027pt, for example:
@@ -1311,10 +1311,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [41]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 21.53984pt, for example:
-(fancyhdr)                \setlength{\headheight}{21.53984pt}.
+(fancyhdr)                Make it at least 21.50027pt, for example:
+(fancyhdr)                \setlength{\headheight}{21.50027pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-9.53984pt}.
+(fancyhdr)                \addtolength{\topmargin}{-9.50027pt}.
 
 [42]
 
@@ -1404,10 +1404,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-9.50027pt}.
 
 [52]
-\tf@thm=\write6
-\openout6 = `"Algebra Topoplogy.thm"'.
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 21.50027pt, for example:
@@ -1416,6 +1412,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-9.50027pt}.
 
 [53]
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <15.05624> not available
+(Font)              size <14.4> substituted on input line 2772.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2772.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\pi' on input line 2772.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2772.
+
+\tf@thm=\write6
+\openout6 = `"Algebra Topoplogy.thm"'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 21.50027pt, for example:
@@ -1431,17 +1446,17 @@ L3 programming layer <2022/07/14>
 
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.41063pt have occurred.
+(Font)              up to 0.65625pt have occurred.
 
 Package rerunfilecheck Info: File `"Algebra Topoplogy".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 32165 strings out of 474773
- 719024 string characters out of 5761289
- 1959842 words of memory out of 5000000
- 53753 multiletter control sequences out of 15000+600000
- 571613 words of font info for 123 fonts, out of 8000000 for 9000
+ 32188 strings out of 474773
+ 719429 string characters out of 5761289
+ 1955842 words of memory out of 5000000
+ 53770 multiletter control sequences out of 15000+600000
+ 575041 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  116i,21n,121p,1246b,1256s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
